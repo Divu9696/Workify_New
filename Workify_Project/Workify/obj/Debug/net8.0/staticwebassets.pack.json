@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/89829f6a-94b1-4ded-858e-04270d18b211.pdf",
+      "PackagePath": "staticwebassets/resumes/89829f6a-94b1-4ded-858e-04270d18b211.pdf"
+    },
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/c7aa43ab-9015-4839-98cb-2f91e60c5e18.pdf",
+      "PackagePath": "staticwebassets/resumes/c7aa43ab-9015-4839-98cb-2f91e60c5e18.pdf"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Workify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Workify.props",
+      "PackagePath": "build\\Workify.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Workify.props",
+      "PackagePath": "buildMultiTargeting\\Workify.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Workify.props",
+      "PackagePath": "buildTransitive\\Workify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

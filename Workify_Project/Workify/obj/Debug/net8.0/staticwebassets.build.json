@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "G/pOAK1b4wJISTOT5drb2WTRSO7s5saW8jBOGgH8uos=",
+  "Source": "Workify",
+  "BasePath": "_content/Workify",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Workify/wwwroot",
+      "Source": "Workify",
+      "ContentRoot": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/",
+      "BasePath": "_content/Workify",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/89829f6a-94b1-4ded-858e-04270d18b211.pdf",
+      "SourceId": "Workify",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/",
+      "BasePath": "_content/Workify",
+      "RelativePath": "resumes/89829f6a-94b1-4ded-858e-04270d18b211.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/resumes/89829f6a-94b1-4ded-858e-04270d18b211.pdf"
+    },
+    {
+      "Identity": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/c7aa43ab-9015-4839-98cb-2f91e60c5e18.pdf",
+      "SourceId": "Workify",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/",
+      "BasePath": "_content/Workify",
+      "RelativePath": "resumes/c7aa43ab-9015-4839-98cb-2f91e60c5e18.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/resumes/c7aa43ab-9015-4839-98cb-2f91e60c5e18.pdf"
+    }
+  ]
+}
